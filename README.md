@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JZ-FSDev&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Bank)](https://github.com/JZ-FSDev/Bank) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Coffee-Shop)](https://github.com/JZ-FSDev/Coffee-Shop)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Battleship)](https://github.com/JZ-FSDev/Battleship) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Advent-of-Code-2021)](https://github.com/JZ-FSDev/Advent-of-Code-2021)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Space-Invaders)](https://github.com/JZ-FSDev/Space-Invaders) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Integer-Linked-List)](https://github.com/JZ-FSDev/Integer-Linked-List)
