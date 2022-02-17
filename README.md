@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JZ-FSDev&langs_count=10&theme=dark)](https://github.com/JZ-FSDev)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Bank)](https://github.com/JZ-FSDev/Bank) [![Readme Card](https://github.com/JZ-FSDev/Matrix-Calculator)](https://github.com/JZ-FSDev/Matrix-Calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Bank)](https://github.com/JZ-FSDev/Bank) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Matrix-Calculator)](https://github.com/JZ-FSDev/Matrix-Calculator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Sudoku-Solver)](https://github.com/JZ-FSDev/Sudoku-Solver) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=DSA-Practice)](https://github.com/JZ-FSDev/DSA-Practice)
 
