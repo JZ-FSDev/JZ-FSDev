@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Sudoku-Solver)](https://github.com/JZ-FSDev/Sudoku-Solver) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=DSA-Practice)](https://github.com/JZ-FSDev/DSA-Practice)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Space-Invaders)](https://github.com/JZ-FSDev/Space-Invaders) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=jz-fsdev.github.io)](https://github.com/JZ-FSDev/jz-fsdev.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Advent-of-Code-2021)](https://github.com/JZ-FSDev/Advent-of-Code-2021) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=jz-fsdev.github.io)](https://github.com/JZ-FSDev/jz-fsdev.github.io)
