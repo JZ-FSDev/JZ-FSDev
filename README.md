@@ -24,10 +24,10 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: Avid student programmer keen on applying concepts from the classroom to practical applications and solving real-world challenges.
+- :telescope: Avid programmer keen on applying concepts from the classroom to practical applications and solving real-world challenges.
 - 👀 Interested in machine learning and data management.
 - 🌱 Completing my Bachelor’s Degree in the Honours Computer Science Program at the University of Manitoba.
-- 💞️ Eager to connect and collaborate with like-minded individuals who are eager to continually grow.
+- 💞️ Eager to connect and collaborate with like-minded individuals who are eager to continually improve and grow.
 - :mailbox: Reach out to me [![Linkedin Badge](https://img.shields.io/badge/-Jason_Zhu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-zhu-10a322157/)
 
 ---
