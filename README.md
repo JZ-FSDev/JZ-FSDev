@@ -33,9 +33,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JZ-FSDev&&theme=swift)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JZ-FSDev&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JZ-FSDev&&theme=swift)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JZ-FSDev&layout=compact&theme=swift)](https://github.com/JZ-FSDev)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=JZ-FSDev&bg_color=FFFEFE&color=161616&line=FB8C01&point=000000&custom_title=Monthly%20Activity&hide_border=true)](https://github.com/JZ-FSDev)
 
 ---
 
