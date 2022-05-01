@@ -30,17 +30,15 @@
 - 💞️ Eager to connect and collaborate with like-minded individuals who are eager to continually grow.
 - :mailbox: Reach out to me [![Linkedin Badge](https://img.shields.io/badge/-Jason_Zhu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-zhu-10a322157/)
 
-<!---
-JZ-FSDev/JZ-FSDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JZ-FSDev&show_icons=true&theme=dark)
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JZ-FSDev&&theme=swift)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JZ-FSDev&langs_count=10&theme=dark)](https://github.com/JZ-FSDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JZ-FSDev&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Bank)](https://github.com/JZ-FSDev/Bank) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Matrix-Calculator)](https://github.com/JZ-FSDev/Matrix-Calculator)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Sudoku-Solver)](https://github.com/JZ-FSDev/Sudoku-Solver) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=DSA-Practice)](https://github.com/JZ-FSDev/DSA-Practice)
+### 📚 My Projects :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=Advent-of-Code-2021)](https://github.com/JZ-FSDev/Advent-of-Code-2021) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=JZ-FSDev&repo=jz-fsdev.github.io)](https://github.com/JZ-FSDev/jz-fsdev.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=JZ-FSDev&repo=Bank)](https://github.com/JZ-FSDev/Bank)                           [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=JZ-FSDev&repo=Matrix-Calculator)](https://github.com/JZ-FSDev/Matrix-Calculator)
