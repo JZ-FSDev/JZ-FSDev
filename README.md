@@ -44,10 +44,10 @@
 
 ### 📚 My Projects :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=JZ-FSDev&repo=Bank)](https://github.com/JZ-FSDev/Bank)                           [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=JZ-FSDev&repo=Matrix-Calculator)](https://github.com/JZ-FSDev/Matrix-Calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=JZ-FSDev&repo=InnerCore)](https://github.com/JZ-FSDev/InnerCore) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=TechTitans-UofM&repo=techtitans-uofm.github.io)](https://techtitans-uofm.github.io/posts/Music-Management-System/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=JZ-FSDev&repo=Matrix-Calculator)](https://github.com/JZ-FSDev/Matrix-Calculator)
+
+[![Peking Chinese Foods Website](http://pekingwpg.com/wp-content/uploads/2013/12/pekinglogo1.png)](http://pekingwpg.com/)
 
 ---
-
-### ⏰ My Activity :
-
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=JZ-FSDev&bg_color=FFFEFE&color=161616&line=FB8C01&point=000000&custom_title=Monthly%20Activity&hide_border=true)](https://github.com/JZ-FSDev)
